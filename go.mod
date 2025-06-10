@@ -1,4 +1,4 @@
-module mtest
+module github.com/dennis2006/mtest
 
 go 1.23.3
 
